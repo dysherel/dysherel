@@ -13,7 +13,7 @@ I'm a finance and data professional specializing in financial data infrastructur
 
 **Languages & Analytics:** SQL, Python, Google BigQuery, Excel
 
-**Systems & Data:** Financial data reconciliation, ETL/ELT concepts, data validation, systems integration
+**Systems & Data:** Financial data reconciliation, Data transformation & validation, systems integration
 
 **Automation & AI:** Claude Code, Google Apps Script, AI-assisted technical workflows
 
